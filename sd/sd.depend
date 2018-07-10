@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1421508278 source:c:\users\lucas\onedrive\documentos\aplicações com arduino\aplicação i - detecção de sinais\vrpn\vrpn_analog.c
+	"vrpn_Analog.h"
+	<stdio.h>
+	<string.h>
+	"vrpn_Shared.h"
+	"vrpn_Serial.h"
+
+1421508278 c:\users\lucas\onedrive\documentos\aplicações com arduino\aplicação i - detecção de sinais\vrpn\vrpn_analog.h
+	<stddef.h>
+	"vrpn_BaseClass.h"
+	"vrpn_Configure.h"
+	"vrpn_Connection.h"
+	"vrpn_Shared.h"
+	"vrpn_Types.h"
+	"vrpn_Serial.h"
+
+1421508278 c:\users\lucas\onedrive\documentos\aplicações com arduino\aplicação i - detecção de sinais\vrpn\vrpn_baseclass.h
+	<stdio.h>
+	"vrpn_Configure.h"
+	"vrpn_Connection.h"
+	"vrpn_Shared.h"
+	"vrpn_Types.h"
+
+1421508278 c:\users\lucas\onedrive\documentos\aplicações com arduino\aplicação i - detecção de sinais\vrpn\vrpn_configure.h
+	<dinput.h>
+
+1421508278 c:\users\lucas\onedrive\documentos\aplicações com arduino\aplicação i - detecção de sinais\vrpn\vrpn_connection.h
+	<stdio.h>
+	"vrpn_Configure.h"
+	"vrpn_Shared.h"
+	"vrpn_Types.h"
+	<sys/select.h>
+	<bitset>
+
+1421508280 c:\users\lucas\onedrive\documentos\aplicações com arduino\aplicação i - detecção de sinais\vrpn\vrpn_shared.h
+	"vrpn_Configure.h"
+	"vrpn_Types.h"
+	<string.h>
+	<stdio.h>
+	<bitset>
+	<sys/select.h>
+	<netinet/in.h>
+	<sys/time.h>
+	<windows.h>
+	<sys/timeb.h>
+	<winsock2.h>
+	<winsock.h>
+	<assert.h>
+	<task.h>
+	<ulocks.h>
+	<process.h>
+	<pthread.h>
+	<semaphore.h>
+
+1421508280 c:\users\lucas\onedrive\documentos\aplicações com arduino\aplicação i - detecção de sinais\vrpn\vrpn_types.h
+	"vrpn_Configure.h"
+
+1421508280 c:\users\lucas\onedrive\documentos\aplicações com arduino\aplicação i - detecção de sinais\vrpn\vrpn_serial.h
+	"vrpn_Configure.h"
+	<stddef.h>
+
+1421508278 source:c:\users\lucas\onedrive\documentos\aplicações com arduino\aplicação i - detecção de sinais\vrpn\vrpn_button.c
+	<stdio.h>
+	<fcntl.h>
+	<string.h>
+	<linux/lp.h>
+	<sys/ioctl.h>
+	"vrpn_Connection.h"
+	"vrpn_Serial.h"
+	"vrpn_Shared.h"
+	<unistd.h>
+	<conio.h>
+	<gl/device.h>
+	<gl/gl.h>
+	"vrpn_Button.h"
+
+1421508278 c:\users\lucas\onedrive\documentos\aplicações com arduino\aplicação i - detecção de sinais\vrpn\vrpn_button.h
+	<stddef.h>
+	"vrpn_BaseClass.h"
+	"vrpn_Configure.h"
+	"vrpn_Shared.h"
+	"vrpn_Types.h"
+
